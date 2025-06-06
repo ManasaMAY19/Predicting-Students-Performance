@@ -28,5 +28,3 @@ This analysis investigates factors affecting student performance and builds a mo
 - Feature importance analysis from the Random Forest model reveals which factors most strongly predict math scores
 
 This comprehensive analysis provides insights into educational performance factors and delivers a predictive model that could help identify students who might need additional support in mathematics.
-
-#OUTPUT
